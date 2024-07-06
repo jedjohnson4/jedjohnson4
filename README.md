@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  🏫 Student at the University of Arkansas, Fayetteville <br>
-  🧪 Analytical chemistry undergraduate research assistant <br>
+  🏫 Medical student at the University of Arkansas for Medical Sciences <br>
   📊 Data visualization (R/ggplot2) <br>
   📁 R, Python, LaTeX
   
